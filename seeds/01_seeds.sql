@@ -1,4 +1,4 @@
-INSERT INTO (name, email, password)
+INSERT INTO users (name, email, password)
 VALUES ('Nimi', 'Nimi@gm.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u'),
 ('Roy', 'Roy@gm.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u'),
 ('Vimal', 'Vimal@gm.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u');
